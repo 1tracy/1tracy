@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hey there, I'm Tracy 👋
 
-<!--
-**1tracy/1tracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ## 👋 &nbsp;Hey there! I'm Tracy -->
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 &nbsp;About Me
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently in 1B Computer Science at UWaterloo\
+🌱 &nbsp;I'm on track to learn more about algorithm design and combinatorics.\
+✍️ &nbsp;In my free time, I like coding and playing Minecraft with my friends :)\
+✉️ &nbsp;You can shoot me an email at dongtracy2002@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](./img/readme_resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Coder" src="./img/me_coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+### ⚙️ &nbsp;Cool Analytics
+
+<p align="center">
+<a href="https://github.com/1tracy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1tracy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1tracy&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.tracydong.com"><img src="https://img.shields.io/badge/-tracydong.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tracy-dong-3a9576155/"><img src="https://img.shields.io/badge/-Tracy%20Dong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:dongtracy2002@gmail.com"><img src="https://img.shields.io/badge/-dongtracy2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/dtrxcy"><img src="https://img.shields.io/badge/-@dtrxcy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
