@@ -4,11 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently in 1B Computer Science at UWaterloo\
+🎓 &nbsp;I'm currently in 1B Computer Science at UWaterloo.\
 🌱 &nbsp;I'm on track to learn more about algorithm design and combinatorics.\
 ✍️ &nbsp;In my free time, I like coding and playing Minecraft with my friends :)\
 ✉️ &nbsp;You can shoot me an email at dongtracy2002@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](./img/readme_resume.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [resume](./img/readme_resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Coder" src="./img/me_coding.gif" align="right"/>
 
@@ -25,7 +25,6 @@
 <p align="center">
 <a href="https://github.com/1tracy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=1tracy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=1tracy&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
