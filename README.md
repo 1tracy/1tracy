@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently in 1B Computer Science at UWaterloo.\
+🎓 &nbsp;I'm currently in 2A Computer Science at UWaterloo.\
 🌱 &nbsp;I'm on track to learn more about algorithm design and combinatorics.\
 ✍️ &nbsp;In my free time, I like coding and playing Minecraft with my friends :)\
 ✉️ &nbsp;You can shoot me an email at dongtracy2002@gmail.com! I'll try to respond as soon as I can.\
