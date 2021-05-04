@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track to learn more about algorithm design and combinatorics.\
 ✍️ &nbsp;In my free time, I like coding and playing Minecraft with my friends :)\
 ✉️ &nbsp;You can shoot me an email at dongtracy2002@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [resume](https://dtrxcy.wordpress.com/resume/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [resume](http://tracydong.com/Tracy%20Dong%20May%202021%20Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Coder" src="./img/me_coding.gif" align="right"/>
 
