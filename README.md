@@ -34,6 +34,6 @@
 <p align="center">
 <!--<a href="link"><img src="https://img.shields.io/badge/-link.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
 <a href="https://www.linkedin.com/in/tracy-dong-3a9576155/"><img src="https://img.shields.io/badge/-Tracy%20Dong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dongtracy2002@gmail.com"><img src="https://img.shields.io/badge/-dongtracy2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:t24dong@uwaterloo.ca"><img src="https://img.shields.io/badge/-t24dong@uwaterloo.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/dtrxcy"><img src="https://img.shields.io/badge/-@dtrxcy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
